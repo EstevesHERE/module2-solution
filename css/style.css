@@ -3,6 +3,9 @@
     
 }
 
+p{
+    font-weight: bold;
+}
 
 .container{
     margin: 0 1%;
@@ -245,7 +248,12 @@
     background-color: #E5D198;
 }
 
-p{
-    font-weight: bold;
+
+header > .row {
+    display: block;
 }
 
+
+.txtBottom{
+    padding: 0 3%;
+}
